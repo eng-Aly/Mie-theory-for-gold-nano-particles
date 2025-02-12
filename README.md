@@ -3,7 +3,7 @@
 ## Overview
 This MATLAB script calculates the Mie scattering properties of spherical gold nanoparticles based on their optical properties derived from the Drude-Lorentz model. The code computes the complex permittivity of gold and then uses Mie theory to evaluate the extinction, scattering, and absorption efficiencies as a function of wavelength.
 
-![output](outpur.png)
+![output](output.png)
 
 ## Methodology
 ### 1. **Drude-Lorentz Model for Gold Permittivity**
